@@ -19,11 +19,9 @@ class App extends Component {
 
         <Route path="/" exact component={MainPage} />
         <Route path="/content" exact component={Content} />
-        {/* <Route path="/new-booking" render={props=><NewBooking {...props} loginUser={this.props.user} />} /> */}
       </div>
     )
   }
-  
 }
 
 export default App;
