@@ -16,7 +16,6 @@ class App extends Component {
             </ul>
           </nav>
         </header>
-
         <Route path="/" exact component={MainPage} />
         <Route path="/content" exact component={Content} />
       </div>
