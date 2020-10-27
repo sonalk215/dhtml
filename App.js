@@ -26,5 +26,4 @@ class App extends Component {
   
 }
 
-// export default BrowserRouter(App);
 export default App;
