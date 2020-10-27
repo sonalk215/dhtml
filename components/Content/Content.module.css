@@ -1,0 +1,27 @@
+.nb__sidebar {
+    display: inline-block;
+    width: 3%;
+    height: 95vh;
+    background: none repeat scroll 0 0 #990000;
+    color: white;
+    padding: 5px 10px;
+    position: absolute;
+    box-shadow: 10px 10px 37px 1px rgba(142,148,59,1);
+}
+
+.nb__sidebar__expand {
+    border: 2px solid black;
+    width: 20%;
+}
+
+.nb__dhtml {
+    display: inline-block;
+    position: absolute;
+    right: 0%;
+    width: 96%;
+    height: 100%;
+}
+
+.nb__dhtml__compress {
+    width: 78%;
+}
